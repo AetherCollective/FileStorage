@@ -1,0 +1,1 @@
+All content used in this repository are owned or licensed by their respective owners and/or its affiliates. I do not claim ownership to the software used here. Generally, these files are not licensed under MIT unless specified so.
